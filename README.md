@@ -3,6 +3,11 @@
 A local Windows script with a selectable registration name and the fixed
 organization **🄯 Ashesh Development**. The default name is **Erich Alfred Bossert**.
 
+Inspired by and adapted from the original
+[WinRAR Activator](https://github.com/NaeemBolchhi/WinRAR-Activator), created by
+[@NaeemBolchhi](https://github.com/NaeemBolchhi). This version adds registration
+name selection, dynamic key generation, and backup handling.
+
 Free to use, modify, and redistribute under the [GNU GPL version 3](LICENSE).
 
 ## Features
@@ -157,7 +162,8 @@ These licenses do not grant a WinRAR license.
 
 ## Credits and Provenance
 
-- Original scripts: [NaeemBolchhi's WinRAR Activator](https://github.com/NaeemBolchhi/WinRAR-Activator),
+- Original creator: [@NaeemBolchhi](https://github.com/NaeemBolchhi), author of
+  [WinRAR Activator](https://github.com/NaeemBolchhi/WinRAR-Activator),
   distributed with GNU GPL version 3.
 - Customization: **Erich Alfred Bossert / Ashesh Development**, 2026-11-18.
 - Registration data generation: [bitcookies/winrar-keygen v4.3.0](https://github.com/bitcookies/winrar-keygen/releases/tag/v4.3.0),
