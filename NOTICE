@@ -13,6 +13,8 @@ custom registration data and branding, local launching, backup handling,
 error reporting, isolated smoke checks, and documentation. Further changes
 add runtime name selection and the fixed organization "🄯 Ashesh Development",
 UTF-8 registration generation, and checksum verification of the bundled tool.
+The online launcher adds a pinned package download, integrity checks, argument
+forwarding, and temporary-file cleanup.
 
 License: GNU General Public License version 3 (GPL-3.0-only).
 Use, modification, and redistribution are permitted under its terms.
